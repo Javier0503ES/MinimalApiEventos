@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JjivEZ5f5qrx0GnOJzfob8HsXpARwV5LqIYJ+55XAo8=",
+  "Source": "ApiEventosCdmx",
+  "BasePath": "_content/ApiEventosCdmx",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

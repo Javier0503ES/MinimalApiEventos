@@ -1,0 +1,6 @@
+@ApiEventosCdmx_HostAddress = http://localhost:5003
+
+GET {{ApiEventosCdmx_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiEventosCdmx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f60530e244bb68a3b952b226107d224b06c6633")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiEventosCdmx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiEventosCdmx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
